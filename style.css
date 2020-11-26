@@ -1,0 +1,21 @@
+
+
+
+.about-picture{
+  background: url(image/let.jpg);
+  background-repeat: no-repeat;
+}
+.height-50{
+    height:50vh ;
+}
+
+.about-pic{
+    background: url(image/let.jpg);
+    background-repeat: no-repeat;
+}
+
+.picture{
+   background:linear-gradient(rgba(0, 0, 0, 0.849),rgba(0, 0, 0, 0.815) ) ,url(image/header.jpg)center/cover no-repeat fixed  rgba(0, 0, 0, 0.562) !important;
+}
+
+
